@@ -7,3 +7,8 @@ const c= ()=>{
 const c=()=>{
     alert("ho iwm so tired!")
 }
+
+const b= ()=>{
+    alert("hi sdc!")
+    let c=3
+}
