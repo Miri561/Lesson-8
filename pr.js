@@ -1,5 +1,7 @@
-const a= ()=>{
-    alert("hi!")
+
+const c= ()=>{
+    alert("hreai!")
+    y=8
 }
 
 const c=()=>{
